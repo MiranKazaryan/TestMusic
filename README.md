@@ -9,6 +9,8 @@ POST /images/:imageId/comments - добавление комментария
 
 Для запуска необходимо запустить сервер в папке /backend командой npm run start и фронтэнд в папке /frontend командой npm run start
 Фронтэнд размещен на 3010 порту, Бекэнд на 3000 порту
+Перед запуском необходимо проинициализировать npm i 
+Используется NOSQL база данных MongoDB
 # Стек:
 HTML
 CSS
@@ -19,3 +21,4 @@ JavaScript
 Webpack
 React
 Express
+Mongo
