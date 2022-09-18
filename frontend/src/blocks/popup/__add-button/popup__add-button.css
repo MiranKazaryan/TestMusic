@@ -1,0 +1,17 @@
+.popup__add-button{
+    justify-self: end;
+    margin: 0;
+    background-color: unset;
+    background-image: url(../../../images/plus.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    width: 40px;
+    height: 40px;
+    border: 2px solid #000000;
+    border-radius: 2px;
+    box-sizing: border-box;
+}
+.popup__add-button:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}

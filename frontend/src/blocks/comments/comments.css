@@ -1,0 +1,10 @@
+.comments{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    list-style: none;
+    background-color: whitesmoke;
+    overflow-wrap: break-word;
+    overflow-y: scroll;
+    max-height: 9vh;
+}
